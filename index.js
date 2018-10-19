@@ -29,7 +29,7 @@ newDiv.style.textTransform = "uppercase"
 newDiv.id = "special"
 newDiv.className = "special-cuy"
 
-displayTodo.appendChild(newDiv)
+// displayTodo.appendChild(newDiv)
 
 // Event Listener ------------------------------------------
 
@@ -61,3 +61,9 @@ function handleKeyPress(event){
 // window.open("http://www.nonton.movie","_blank")
 // let name = window.prompt("Input Name")
 // console.log(name)
+// inputTodo.remove()
+
+
+
+
+
